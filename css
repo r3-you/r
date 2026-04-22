@@ -1,12 +1,7 @@
 @font-face {
-    font-family: 'ThmanyahSerif';
-    src: url('../fonts/thmanyahserifdisplay-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap; /* لضمان ظهور النص أثناء تحميل الخط */
-}
-
-/* لاستخدامه */
-body {
-    font-family: 'ThmanyahSerif', serif;
+  font-family: 'ThmanyahSerifDisplay';
+  src: url('https://raw.githubusercontent.com/r3-you/REPO/main/thmanyahserifdisplay-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
 }
